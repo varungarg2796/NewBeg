@@ -7,7 +7,7 @@ layout: default
   
   <ul class="post-list">
     {% for post in site.posts %}
-     <a href="{{ post.url | prepend: site.baseurl }}">
+     <a href="{{ site.baseurl }}/{{ post.url }}">
      
      <li class="post-box">
          <span class="post-meta"><strong>{{ post.date | date: "%-d" }}</strong><br />{{ post.date | date: "%b" }}</span>
