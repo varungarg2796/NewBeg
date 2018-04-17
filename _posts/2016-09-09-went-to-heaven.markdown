@@ -2,8 +2,6 @@
 layout: post
 title:  "Did you know I did not go to heaven!"
 ---
-WHAT WHA T WAHTAHASHDHASD 
-Upon the onset of the Kali yuga and the departure of Krishna, Yudhishthira and his brothers retired, leaving the throne to their only descendant to survive the war of Kurukshetra, Arjuna's grandson, Parikshit. 
 
 ![Yudish goes to heaven]({{site.baseurl}}/images/yudish-heaven.jpg)
 
