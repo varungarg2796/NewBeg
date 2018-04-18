@@ -11,7 +11,7 @@ tagline: <a>Dreamer</a>. Sports Fanatic. Toastmaster. Coder. #"<a target='_blank
 picture: varun.jpg #keep a 100x100 image inside images folder.
 email: varungarg2796@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Yudish is a minimal Jekyll theme for content oriented websites with less distractions.
+  Want to know about me?
 baseurl: "/NewBeg" # the subpath of your site, e.g. /blog
 #url: "http://webjeda.com" # the base hostname & protocol for your site
 brand-color: '#e74c3c'
@@ -19,7 +19,7 @@ permalink: ':title/'
 
 # Footer
 credits: Varun Garg #credits on the footer
-version: Hosted on Github pages
+version: hosted on Github pages
 
 # Build settings
 markdown: kramdown
