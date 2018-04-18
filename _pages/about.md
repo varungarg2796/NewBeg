@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
+Hi! I am a computer science student studying in Maharaja Agrasen Institute of Technology. I have undying love for sports, technology and toastmasters. This blog is for jotting down my thoughts and expressing my views.
 
-Yudish is a minimal content oriented theme. It can be used for personal blog. It is named after Yudishtira, a character in the Hindu mythology Mahabharatha.
+[Projects on Github](https://github.com/varungarg2796)
 
-[Project on Github](https://github.com/sharu725/yudish)
 
-[Download this theme](https://github.com/sharu725/yudish/archive/master.zip)
 
-More themes available here: [**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes/)

@@ -7,7 +7,7 @@
 
 # Site settings
 title: Varun Garg
-tagline: Dreamer. Sports Fanatic. Toastmaster. Coder" #"<a target='_blank' href='https://en.wikipedia.org/wiki/Yudhishthira'> </a> 
+tagline: <a> Dreamer </a>. Sports Fanatic. Toastmaster. Coder. #"<a target='_blank' href='https://en.wikipedia.org/wiki/Yudhishthira'> </a> 
 picture: varun.jpg #keep a 100x100 image inside images folder.
 email: varungarg2796@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -24,7 +24,7 @@ version: 1.0
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM
+ input: GFM
 highlighter: rouge
 
 sass:
