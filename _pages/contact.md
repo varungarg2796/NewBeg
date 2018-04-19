@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=<API-TOKEN>" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=6a531bc6ec9b763f397d621e6ded65f4" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -26,9 +26,7 @@ permalink: /contact/
         
 </form>
 
-This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token or use other forms deleting this whole form. But remember, php forms will not work on Jekyll.
-
-The styles for the form is included in this page. I haven't included it in the main site because it has at least 25 lines of css and it is used only on this page. So including it in main css file doesn't make sense.
+Want to get in touch? Fill the form above and I will surely get back to you! Also, you can find me on any social media platform by adding '/varungarg2796'.
 
 <style>
 
